@@ -1,3 +1,5 @@
 # README
 
-Hello Git!
+Hello Git
+
+第一次练习!
